@@ -1,0 +1,9 @@
+Metric,Value
+Number of stocks,27
+Effective number of stocks (1/HHI),23.0
+Herfindahl index (HHI),0.043
+Largest single position,10%
+Top-5 positions (% of gross),31%
+Sectors covered,11 of 11
+Largest net sector exposure,18% (Materials)
+Diversifiable variance removed (1 - 1/N_eff),96%
