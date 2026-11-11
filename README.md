@@ -19,7 +19,7 @@
 | Sectors covered | 11 of 11 |
 | Average correlation, all 27 holdings | **0.12** |
 | Average correlation, long vs short | **0.07** |
-| ortfolio beta (weighted Capital IQ betas) | 0.16 |
+| Portfolio beta (weighted Capital IQ betas) | 0.16 |
 
 ![Correlation heat map](output/chart4_correlation_heatmap.png)
 
