@@ -25,7 +25,13 @@
 
 ![Sector exposure](output/chart2_sector_exposure.png)
 
-![Diversification curve](output/chart1_diversification_curve.png)
+![Diversification curve](output/chart1_diversification_curve.png
+
+![Selection funnel](output/chart6_selection_funnel.png)
+
+![Quality score against valuation](output/chart7_quality_vs_valuation.png)
+
+![Security market line](output/chart8_security_market_line.png)
 
 ## Method
 
@@ -48,6 +54,7 @@ pip install -r requirements.txt
 python src/build_portfolio.py     # quality scores + 27-stock portfolio -> output/portfolio.csv
 python src/diversification.py     # concentration metrics + charts 1–3
 python src/correlation.py         # correlations, betas, historical risk + charts 4–5
+python src/report_figures.py      # report figures: charts 6–8
 ```
 Run the commands from the repository root.
 
